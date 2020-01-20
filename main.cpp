@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //
-//  Created by Miraj Brahmbhatt on 4/22/16.
+
 //  Copyright © 2016 Miraj Brahmbhatt. All rights reserved.
 
 
